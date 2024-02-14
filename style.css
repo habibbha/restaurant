@@ -1,0 +1,76 @@
+.nav-bar{
+    background-color:chocolate !important;
+}
+
+
+.brand-name{
+    font-size: x-large !important;
+    font-style: oblique !important;
+    margin-left: 20px !important;
+}
+.nav-list{
+    display: flex !important;
+    justify-content:flex-end !important;
+    font-size: larger !important;
+}
+.hero{
+    background-image: url(full-table-italian-meals-on-600nw-1829686103.webp);
+    font-style: oblique;
+    height: 300px;
+    border-style: solid;
+}
+.menu{
+    margin-top: 0px !important;
+    color: white;
+    background-color: black ;
+    margin-top: 0px !important;
+    width: auto !important;
+
+}
+p{
+    display: flex;
+    justify-content: center;
+}
+.reserve{
+    background-color: chocolate;
+    color: white;
+    justify-content: center;
+    align-items: center !important;
+    height:200px;
+}
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+
+
+
+
+
+
+

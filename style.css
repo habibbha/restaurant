@@ -34,9 +34,22 @@ p{
 .reserve{
     background-color: chocolate;
     color: white;
-    justify-content: center;
+    justify-content: center !important;
     align-items: center !important;
-    height:200px;
+    height:466px;
+   display: flex;
+   border: black;
+   border-style: double;
+   border-width: 20px;
+   
+
+}
+
+.reserve p{
+    display: flex !important;
+    color: black;
+    padding: 100px;
+    
 }
 
 
